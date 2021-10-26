@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393013340307",
+    "firebase_url": "https://quizappflutter-decca-default-rtdb.firebaseio.com",
+    "project_id": "quizappflutter-decca",
+    "storage_bucket": "quizappflutter-decca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393013340307:android:b7522e238caec8f7ca0566",
+        "android_client_info": {
+          "package_name": "com.example.tp3quizfirebase.tp3quizfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393013340307-ju7bahgtlrrgagg8vdgnte3bqglrqm4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoo75WFLw-BCRb6su8V4TTpkRucVqrRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393013340307-ju7bahgtlrrgagg8vdgnte3bqglrqm4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
